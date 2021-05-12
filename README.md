@@ -1,7 +1,7 @@
 # cp-colab
 
-出勤 のCPP
-* CPP_To_Work.ipynb
+CPP_To_Work.ipynb
+* 出勤 のCPP
 
-退勤 のCPP
-* CPP_From_Work.ipynb
+CPP_From_Work.ipynb
+* 退勤 のCPP
